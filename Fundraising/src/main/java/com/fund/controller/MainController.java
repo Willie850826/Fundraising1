@@ -15,7 +15,7 @@ import com.fund.model.eneity.OrderDetail;
 @Controller
 public class MainController { 
 	
-	@Autowired
+	@Autowired 
 	private IBackService backServiceImpl;
 	
 	/**
